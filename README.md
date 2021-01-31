@@ -10,6 +10,14 @@
 <img width="864" alt="Screen Shot 2021-01-30 at 5 16 23 PM" src="https://user-images.githubusercontent.com/53641091/106371906-16a54d00-631f-11eb-844a-c03060b24d92.png">
 </p>
 
+<p align="center">
+<img width="761" alt="Screen Shot 2021-01-30 at 7 04 23 PM" src="https://user-images.githubusercontent.com/53641091/106373428-3ee87800-632e-11eb-8cf0-71698a7755e8.png">
+</p>
+
+<p align="center">
+<img width="755" alt="Screen Shot 2021-01-30 at 7 05 38 PM" src="https://user-images.githubusercontent.com/53641091/106373434-4871e000-632e-11eb-9240-1e8c2e8d9857.png">
+</p>
+
 #### LINK TO DOWNLOAD CSV:
 https://drive.google.com/file/d/1_hQbo4U2t0niXYYEfrzdos_6amge6HZb/view?usp=sharing
 
